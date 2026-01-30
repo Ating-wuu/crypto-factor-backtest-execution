@@ -1,6 +1,9 @@
 # Crypto Factor Backtesting & Binance Paper Trading System (Individual Contribution)
 
-This repository only contains the core modules that I implemented for a crypto trading system that runs factor-based backtests and executes paper trading on the Binance Futures Testnet.
+The project focuses on building a general research and backtesting framework using a wide range of technical indicators.
+The primary goal is to explore the research process and robustness testing, rather than to present a single production-ready trading strategy.
+
+This repository contains only the core modules I implemented for this project, which run factor-based backtests and execute paper trading on the Binance Futures Testnet.
 
 Key components I developed:
 - **Trading factors**: Bias, CCI, Momentum Mean, PctChange, QuoteVolumeMean  
